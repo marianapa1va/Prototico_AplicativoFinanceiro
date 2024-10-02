@@ -31,7 +31,12 @@ Incluir seções com dicas, artigos e tutoriais sobre finanças pessoais, usando
 Conclusão: O projeto visa criar uma ferramenta robusta e intuitiva que não apenas ajude na gestão financeira, mas também eduque os usuários sobre práticas saudáveis de finanças pessoais.
 
 RESULTADO:
+
 ``
 ![Captura de tela 2024-10-02 192950](https://github.com/user-attachments/assets/79292aff-74eb-4d9a-9e71-b72b8b15fa4f)
 
+´´
+
+``
+(<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Rj3lfYkBe3icFaFg5gNPDO/Organize-F%C3%A1cil?node-id=73-2&node-type=frame&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A55&embed-host=share" allowfullscreen></iframe>)
 ´´
