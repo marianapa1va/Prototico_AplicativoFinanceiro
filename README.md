@@ -1,47 +1,37 @@
 # Protótico de um aplicativo financeiro
-Objetivo do Projeto:
-Desenvolver uma aplicação voltada para a educação financeira, com ênfase na análise de dados. Este projeto visa capacitar os alunos a entenderem e utilizarem conceitos de desenvolvimento para criar ferramentas que ajudem os usuários a gerenciar melhor suas finanças pessoais.
+Etapas do Projeto:
+Pesquisa e Análise de Mercado:
 
-Público-Alvo:
-Jovens de 17 a 22 anos que estão no início de suas jornadas financeiras.
-1ª Etapa
-Tira uma semana para Pesquisa e Análise de Mercado.
+Realizar uma pesquisa sobre as necessidades e desafios financeiros enfrentados por jovens e suas famílias.
+Explorar aplicativos existentes, plataformas e conteúdos relevantes.
+Prototipagem e Design:
 
-Realize uma pesquisa detalhada sobre as necessidades e desafios enfrentados por familias e jovens na gestão de suas finanças pessoais.  
+Criar protótipos de alta fidelidade em ferramentas como Figma ou Adobe XD.
+Focar na simplicidade e usabilidade, apresentando wireframes e fluxos de usuário para feedback.
+Desenvolvimento das Interfaces e Funcionalidades Básicas:
 
-Baixe apps, consulte plataformas e veja vídeos. 
-2ª Etapa - Prototipagem e Design 
-Tarefa: Criar protótipos de alta fidelidade usando ferramentas como Figma ou Adobe XD. O design deve seguir as melhores práticas de UI/UX, focando na simplicidade e usabilidade.
-
-Entrega: Apresentação dos protótipos para feedback, incluindo wireframes e fluxos de usuário detalhados.
-3ª Etapa - Desenvolvimento das interfaces com Funcionalidades Básicas 
-Tarefa: Implementar as funcionalidades principais da aplicação, tais como:
+Implementar funcionalidades essenciais:
 Cadastro e autenticação de usuários.
 Interface para entrada e visualização de despesas e receitas.
 Dashboard com gráficos e estatísticas financeiras.
-Entrega: Demonstração funcional das principais telas e funcionalidades do aplicativo.
-4ª Etapa - Testes, Feedback e Refinamento
-Tarefa: Realizar testes extensivos de usabilidade e funcionalidade. Coletar feedback dos usuários e refinar a aplicação com base nas sugestões recebidas.
+Apresentar uma demonstração funcional das principais telas.
+Testes, Feedback e Refinamento:
 
-Entrega: Relatório de testes e plano de ação para melhorias.
-Dá para ir a além?
-    Análise e Visualização de Dados:
-Utilizem bibliotecas como MPAndroidChart, HighCharts, GoogleCharts e outras para criar visualizações interativas.
-Implementem gráficos e tabelas que ajudem os usuários a visualizar suas finanças.
-    Educação e Conteúdo Informativo:
-    Incluam seções com dicas, artigos e tutoriais sobre finanças pessoais.
-    Usem fontes confiáveis e atualizadas para fornecer conteúdo relevante.
-Critérios de Avaliação:
-Qualidade da Pesquisa: Profundidade e relevância das informações coletadas.
+Conduzir testes de usabilidade e funcionalidade.
+Coletar feedback dos usuários para aprimoramento da aplicação.
+Elaborar um relatório de testes e um plano de ação para melhorias.
+Elementos Adicionais:
+Análise e Visualização de Dados:
 
-Prototipagem e Design: Criatividade, aderência às melhores práticas de UI/UX e usabilidade.
+Utilizar bibliotecas como MPAndroidChart e GoogleCharts para criar visualizações interativas que ajudem os usuários a entender suas finanças.
+Educação e Conteúdo Informativo:
 
-Implementação Técnica: Eficiência do código, uso adequado das tecnologias e funcionalidade das features.
+Incluir seções com dicas, artigos e tutoriais sobre finanças pessoais, usando fontes confiáveis.
 
-Teste e Refinamento: Capacidade de identificar problemas e implementar melhorias eficazes.    
-Conclusão
-Este projeto é uma excelente oportunidade para vocês aplicarem o que aprenderam em uma iniciativa real e significativa. Vamos embarcar juntos nessa jornada, desenvolvendo habilidades valiosas e criando algo que pode fazer a diferença na vida de muitas pessoas.
+Conclusão: O projeto visa criar uma ferramenta robusta e intuitiva que não apenas ajude na gestão financeira, mas também eduque os usuários sobre práticas saudáveis de finanças pessoais.
 
-Estou aqui para apoiar e orientar vocês a cada passo do caminho. Vamos fazer deste projeto um grande sucesso!
+RESULTADO:
+``
+![Captura de tela 2024-10-02 192950](https://github.com/user-attachments/assets/79292aff-74eb-4d9a-9e71-b72b8b15fa4f)
 
-Boa sorte a todos, e mãos à obra!
+´´
