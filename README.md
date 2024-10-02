@@ -38,5 +38,6 @@ RESULTADO:
 ´´
 
 ``
-(<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Rj3lfYkBe3icFaFg5gNPDO/Organize-F%C3%A1cil?node-id=73-2&node-type=frame&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A55&embed-host=share" allowfullscreen></iframe>)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Rj3lfYkBe3icFaFg5gNPDO/Organize-F%C3%A1cil?content-scaling=fixed&kind=proto&node-id=21-6&page-id=0%3A1&scaling=scale-down&starting-point-node-id=13%3A55&embed-host=share" allowfullscreen></iframe>
+
 ´´
